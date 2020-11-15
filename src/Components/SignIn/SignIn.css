@@ -1,0 +1,59 @@
+body {
+    background-color: #f6f6f6 !important;
+  }
+  
+  .row {
+    margin: 10% auto;
+  }
+  
+  .shadow {
+    border-radius: 10px;
+  }
+  
+  .input-style {
+    margin-bottom: 20px;
+    border-radius: 8px !important;
+    padding: 25px !important;
+    height: 30px;
+    font-size: 1.1rem !important;
+  }
+  
+  .forgotpassword {
+    margin: 30% !important;
+  }
+  
+  .createAcc {
+    margin: 10px 25% !important;
+    background-color: #41aea9;
+    display: inline-block;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .createAcc:hover {
+    color: #fff;
+    background-color: #0d7377;
+    border-color: #0d7377;
+  }
+  
+  .heading {
+    color: #5d54a4;
+    font-weight: bolder;
+  }
+  
+  .para {
+    font-size: larger;
+  }
+  

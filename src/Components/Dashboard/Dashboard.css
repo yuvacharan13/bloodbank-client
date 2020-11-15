@@ -1,0 +1,23 @@
+.reqbutton{
+    background-color: #f2f4c0;
+    display: inline-block;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+
+  .reqbutton:hover {
+    color: grey;
+    background-color: #f2f4c0;
+    border-color: #f2f4c0;
+  }
